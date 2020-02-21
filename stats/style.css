@@ -1,0 +1,12 @@
+body {
+	background-color: #eeeeee;
+}
+
+td {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+table {
+	font-family: 'Courier New', Courier, monospace;
+}

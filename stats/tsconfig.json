@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		"strict": true,
+		"outFile": "main.js",
+		"removeComments": true
+	},
+	"files": [
+		"src/main.ts",
+	]
+}
